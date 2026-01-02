@@ -1,13 +1,10 @@
 # 2026年01月更新-性价比机场推荐
-🚀推荐几款最具性价比的机场
 
-本文主要推荐几款性价比非常高的机场，稳定性都非常不错，如果您对冷门节点、带宽峰值有要求，可以看看下面机场详情。请多备用几个机场，以防止失联。任何机场都有跑路的风险，推荐购买月付，以降低风险（本消息不针对任何机场）。
+最新高性价比机场推荐，价格不高但稳定性都非常不错，基本都解锁AI流媒体等，可以多备用几个机场，以防止失联。任何机场都有跑路的风险，推荐购买月付，以降低风险（本消息不针对任何机场）。
 
-如果对于稳定性也没有特殊的需求，可以参考我的另一篇文档[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) 最低仅一包辣条的价格。
 
 还有免费的订阅地址分享：[免费订阅地址分享](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/free.md) 供大家临时使用。
 
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
 
 ![](https://komarev.com/ghpvc/?username=xingjiabijichang)
 ---
