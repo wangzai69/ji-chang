@@ -104,7 +104,7 @@
 千与千云成立于2022年，是一家稳定性十足的精品SS专线机场，使用高端优质的BGP出口不仅提升速度并搭载大陆三网主干线作为入口且智能负载优化下有极佳的网上冲浪体验，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
 
 套餐价格:
-<img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
+<img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
 
 ## 一、飞兔云(9.9/月118G)
 
