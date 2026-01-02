@@ -81,7 +81,10 @@
 - 八折优惠券：**2026**
 - 元旦套餐不可使用
 
+
 ---
+
+
 ## 一、千与千云（7/月/70GB）
 
 官网地址：[点击进入](https://msyll.com.tr/?path=register&amp;code=WYvHUyx6)
@@ -96,6 +99,10 @@
 
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
+
+
+---
+
 
 ## 二、飞兔云(9.9/月118G)
 
@@ -114,7 +121,9 @@
 
 套餐价格:
 
+
 ---
+
 
 ## 三、青云梯(25/月150G)
 
@@ -128,22 +137,11 @@
 
 
 套餐价格:
-
 ![image](https://github.com/user-attachments/assets/86cd8d74-dcbd-4cf4-963a-0bf37fdca822)
-
-推荐购买人群：三网推荐
-
-*最大带宽*
-- 热门节点 6Gbps
-![telegram-cloud-photo-size-5-6179470341735304302-w](https://github.com/user-attachments/assets/cbe90ad1-b649-4f75-87c9-8f40f484a229)
-
-
-[青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
-
-
 
 
 ---
+
 
 ## 三、龙猫云(15/月100G)
 官网地址:[点击进入](https://liji3210.lmvipaff05.cc/register?aff=9QZ7Wx1m)
@@ -153,14 +151,8 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
 
-推荐购买人群：三网推荐
-
-[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
-
-
 
 ---
-
 
 
 ## 四、EF Network(8.9/月100G)
@@ -174,23 +166,13 @@
 套餐价格:
 <img width="1478" alt="image" src="https://github.com/user-attachments/assets/3c8e95a7-d5fd-447b-aa48-cc617a4d5c77" />
 
-ping图：
-![image](https://github.com/user-attachments/assets/a95f7aae-96c1-49d4-8cd5-8c2fb680ff3c)
-
-线路分析:
-
-![telegram-cloud-photo-size-5-6309660799160927156-w](https://github.com/user-attachments/assets/421dbb07-0aee-4b8e-a967-5a7346f7c946)
-
-
 
 ---
-                          
+
+
 ## 五、山水云(15/月100G)
 
-官网地址1:[点击进入](https://ss1.jghjbj.com/#/register?code=mXnyRSJX)
-
-官网地址2:[点击进入](https://sy.h8320.com/#/register?code=mXnyRSJX)
-
+官网地址:[点击进入](https://ss1.jghjbj.com/#/register?code=mXnyRSJX)
 
 主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，老板处理问题速度很快，这点很赞。
 
@@ -198,19 +180,9 @@ ping图：
 
 <img width="1315" height="791" alt="image" src="https://github.com/user-attachments/assets/e9cd8395-ed43-4280-a6dc-fdb6ded9791e" />
 
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
-
-
 
 ---
+
 
 ## 六、NieRCloud(15/月115G)
 
@@ -225,37 +197,13 @@ ping图：
 套餐价格:
 ![image](https://github.com/user-attachments/assets/66b2b18a-0213-4f0d-8395-667d8c105951)
 
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：推荐购买，如果你是广东电信和江苏电信请使用B、C、D组，A组速度慢。
-![2025-05-07T15-05-39 357-top](https://github.com/user-attachments/assets/b8d574c4-0a56-4393-a6e0-760c30347d4c)
-![2025-05-07T14-58-23 802-top](https://github.com/user-attachments/assets/da3c2a47-57fd-4f65-93bc-daaaa4b63fc3)
-
-
-*最大带宽*
-- 热门节点 5Gbps
-  
-![telegram-cloud-photo-size-5-6179470341735304314-w](https://github.com/user-attachments/assets/3d532df9-7a71-4fa2-96af-fb71891772b4)
-
-
-[NieRCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NieRCloud.md)
-
 
 ---
 
+
 ## 七、KTM Cloud(14/月2048G) 
 
-官网地址1:[点击进入](https://ktmcloud.link/#/register?code=EXL0Y3vD)
-
-官网地址2:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
-
-官网地址3:[点击进入](https://ktmcloud.net/#/register?code=EXL0Y3vD)
-
-
+官网地址:[点击进入](https://ktmcloud.link/#/register?code=EXL0Y3vD)
 
 
 主观评价:中转机场，流量价格便宜14元2048流量，速度比起其他中转机场差了点，节点也不少,总体很不错，单位流量价格便宜，推荐需要大流量用户购买。
@@ -263,13 +211,11 @@ ping图：
 具有竞争力的套餐： 1️⃣ 2048GB/月（约0.007元/GB）
 
 套餐价格:
-
 <img width="820" alt="image" src="https://github.com/user-attachments/assets/d901cbdc-b9e5-4189-bdf1-5e96c45070fc" />
 
 
-[KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
-
 ---
+
 
 ## 八、WY Cloud(10/月50G)
 
@@ -286,24 +232,12 @@ ping图：
 <img width="1423" height="854" alt="image" src="https://github.com/user-attachments/assets/4dc3cbb6-ffbd-4767-838f-14f24c914386" />
 
 
-推荐购买人群：三网推荐
-
-*最大带宽*
-- 热门节点 5Gbps
-
-<img width="3121" height="1495" alt="2025-09-29T14-12-03 292-174" src="https://github.com/user-attachments/assets/f44ede22-d438-45e9-9d7f-2942a2778a0e" />
-
-
-
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
-
 ---
+
 
 ## 九、极速云(12.9/月150G)
 
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
-
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
+官网地址:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
 主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
 
@@ -313,20 +247,8 @@ ping图：
 
 <img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
 
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场可能存在广东电信和江苏电信夸网访问Qos限速问题。
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)"
-
-
 
 ---
-
 
 
 ## 购买指导总结
