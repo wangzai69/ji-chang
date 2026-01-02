@@ -376,5 +376,5 @@ iOS：apple store搜索Shadowrocket、sing-box
 
 ## Star 历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/wangzai69&type=Date)
 
