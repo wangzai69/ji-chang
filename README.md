@@ -116,7 +116,7 @@
 使用评价：使用BGP服务器作为入口接入，出口用亚马逊 Global Accelerator 专线加速。星云由海外团队运作，Netflix 、Disney+ 流媒体平台解锁稳定性不错。提供AppleID。
 
 套餐价格:
-
+<img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/2.png?raw=true" />
 
 ---
 
