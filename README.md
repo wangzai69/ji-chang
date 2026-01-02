@@ -90,7 +90,9 @@
 
 机场特点：有自主研发的客户端，也有美区台区港区韩区日区AppleID供付费用户使用。
 
-长期优惠券：- 季付95折优惠券： **9588** - 半年85折优惠券： **8588**
+长期优惠券：
+- 季付95折优惠券： **9588**
+- 半年85折优惠券： **8588**
 
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
