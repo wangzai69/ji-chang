@@ -86,9 +86,11 @@
 
 官网地址：[点击进入](https://msyll.com.tr/?path=register&amp;code=WYvHUyx6)
 
-使用评价：属于精品SS机场，使用IEPL+中转做入口，上网体验不错，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
+使用评价：属于精品SS机场，使用IEPL+中转做入口，上网体验很不错，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
 
-特点：有自主研发的客户端，也有美区台区港区韩区日区AppleID供付费用户使用。
+机场特点：有自主研发的客户端，也有美区台区港区韩区日区AppleID供付费用户使用。
+
+长期优惠券：- 季付95折优惠券： **9588** - 半年85折优惠券： **8588**
 
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
@@ -97,9 +99,7 @@
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
 
-主观评价: 大型机场，80+多个节点，整体质量非常不错，IEPL专线+中转线路，冷门节点多，稳定性很不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
-
-过境线路：深圳移动（广港专线）、佛山移动（中转）
+使用评价: 大型机场，整体质量非常不错，IEPL专线+中转线路，冷门节点多，稳定性很不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
 
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
@@ -107,16 +107,14 @@
 ## 三、星云（6/月/60GB）
 
 官网地址：[点击进入](https://xyrrr.com.tr/?path=register&amp;code=07e4KatO)
-星云成立于2021年，是一家主打稳定全球加速机场，采用国内 BGP 服务器接入，亚马逊 Global Accelerator 专线加速。星云由海外团队运作，Netflix 、Disney+ 流媒体平台解锁稳定性不错。最低6元/月，提供AppleID
+
+使用评价：使用BGP服务器作为入口接入，出口用亚马逊 Global Accelerator 专线加速。星云由海外团队运作，Netflix 、Disney+ 流媒体平台解锁稳定性不错。提供AppleID。
 
 套餐价格:
 
 ---
 
-## 二、青云梯(25/月150G)
-
-
-
+## 三、青云梯(25/月150G)
 
 官网地址:[点击进入](https://ivt01.qytaff.cc/register?aff=ymkMqBTU)
 
@@ -124,7 +122,7 @@
 
 长期优惠码：年付以下85折：**qyt85** 年付以上8折：**qyt80** 
 
-主观评价: 运营五年稳定优质的专线机场，智能的入口分配，不同地区或运营商也能体验到稳定的网络环境，解锁也非常优秀。
+使用评价: 运营五年稳定优质的专线机场，智能的入口分配，不同地区或运营商也能体验到稳定的网络环境，解锁也非常优秀。
 
 
 套餐价格:
