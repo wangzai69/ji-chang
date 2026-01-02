@@ -99,7 +99,7 @@
 八折优惠券：**2026**    （元旦套餐不可使用）
 
 ---
-## 千与千云（7/月/70GB）
+## 一、千与千云（7/月/70GB）
 
 官网地址：[点击进入](https://msyll.com.tr/?path=register&amp;code=WYvHUyx6)
 
@@ -108,7 +108,7 @@
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
 
-## 一、飞兔云(9.9/月118G)
+## 二、飞兔云(9.9/月118G)
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
 
