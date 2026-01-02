@@ -109,15 +109,6 @@
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
 
-## 三、星云（6/月/60GB）
-
-官网地址：[点击进入](https://xyrrr.com.tr/?path=register&amp;code=07e4KatO)
-
-使用评价：使用BGP服务器作为入口接入，出口用亚马逊 Global Accelerator 专线加速。星云由海外团队运作，Netflix 、Disney+ 流媒体平台解锁稳定性不错。提供AppleID。
-
-套餐价格:
-<img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/2.webp?raw=true" />
-
 ---
 
 
