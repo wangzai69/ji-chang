@@ -94,7 +94,7 @@
 - 半年85折优惠券： **8588**
 
 套餐价格:
-<img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.webp?raw=true" />
+<img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/image/1.webp?raw=true" />
 
 
 ---
