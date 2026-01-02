@@ -2,11 +2,8 @@
 
 最新高性价比机场推荐，价格不高但稳定性都非常不错，基本都解锁AI流媒体等，可以多备用几个机场，以防止失联。任何机场都有跑路的风险，推荐购买月付，以降低风险（本消息不针对任何机场）。
 
+❤️ **如果觉得不错可点⭐Star 收藏** 
 
-还有免费的订阅地址分享：[免费订阅地址分享](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/free.md) 供大家临时使用。
-
-
-![](https://komarev.com/ghpvc/?username=xingjiabijichang)
 ---
 
 ## 机场限时优惠
