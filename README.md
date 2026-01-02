@@ -86,7 +86,9 @@
 
 官网地址：[点击进入](https://msyll.com.tr/?path=register&amp;code=WYvHUyx6)
 
-千与千云成立于2022年，是一家稳定性十足的精品SS专线机场，使用高端优质的BGP出口不仅提升速度并搭载大陆三网主干线作为入口且智能负载优化下有极佳的网上冲浪体验，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
+使用评价：属于精品SS机场，使用IEPL入口，网上体验佳，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
+
+特点：有自主研发的客户端，也有美区台区港区韩区日区AppleID供付费用户使用。
 
 套餐价格:
 <img width="983" height="751" alt="image" src="https://github.com/wangzai69/ji-chang/blob/main/images/1.png?raw=true" />
