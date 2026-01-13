@@ -8,7 +8,7 @@
 
 ## 一、千与千云（7/月/80GB）
 
-官网地址：[点击进入](https://github.com/wangzai69/fanqiang)
+官网地址：[点击进入](https://qian.net.tr/#/register?code=WYvHUyx6)
 
 使用评价：属于精品SS机场，使用IEPL+中转做入口，上网体验很不错，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
 
